@@ -4,7 +4,7 @@ Page({
   data: {
     canvasHidden: false,
     maskHidden: false,
-    imagePath: '/images/test.jpg',
+    imagePath: '',
     placeholder: 'http://wxapp-union.com' //默认二维码生成文本
   },
   onLoad: function(options) {
